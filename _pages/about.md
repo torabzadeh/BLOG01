@@ -6,7 +6,7 @@ subtitle: <a href='https://www.bnl.gov/'>Brookhaven National Laboratory</a>
 
 profile:
   align: right
-  image: me.png
+  image: my-pic-03.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 211,</p>
