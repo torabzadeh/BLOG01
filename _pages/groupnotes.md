@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-* [Bruker diffractometer maintenance](/_groupnotes/Bruker.md)  
+* [Bruker diffractometer maintenance](_groupnotes/Bruker.md)  
 * [Laue diffractometer maintenance](/_groupnotes/Laue.md)  
 * [Cleaving samples](/groupnotes/Cleaving/)  
 * [Writing papers](/groupnotes/writing/)
