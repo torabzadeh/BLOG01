@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /_groupnotes/
+permalink: /groupnotes/
 title: Group notes 
 description: Here we keep notes of various tasks within the lab.
 nav: true
@@ -9,7 +9,7 @@ nav_order: 3
 
 * [Bruker diffractometer maintenance](/Bruker.md)  
 * [Laue diffractometer maintenance](Laue.md)  
-* [Cleaving samples](/groupnotes/Cleaving/)  
+* [Cleaving samples](/groupnotes/Cleaving.md)  
 * [Writing papers](/groupnotes/writing/)
 * [Replying to referees](/groupnotes/replyingreferees/)  
 * [Making figures](/groupnotes/figures/)  
