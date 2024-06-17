@@ -10,7 +10,7 @@ nav_order: 3
 * [Bruker diffractometer maintenance](../_groupnotes/Bruker/)  
 * [Laue diffractometer maintenance](Laue.md)  
 * [Cleaving samples](/groupnotes/Cleaving.md)  
-* [Writing papers](/groupnotes/writing/)
+* [Writing papers](/blog01/groupnotes/writing/)
 * [Replying to referees](/groupnotes/replyingreferees/)  
 * [Making figures](/groupnotes/figures/)  
 * [Useful software](/groupnotes/software/)
