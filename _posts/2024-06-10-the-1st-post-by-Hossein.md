@@ -4,7 +4,7 @@ title:  The 1st post by Hossein
 date:   2024-06-10 10:40:16
 description: Here I would test how to write a post in my webpage
 tags: formatting
-categories: sample-posts
+categories: remote-sensing
 ---
 
 # Main Header
