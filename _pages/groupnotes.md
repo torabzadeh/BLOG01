@@ -11,7 +11,7 @@ nav_order: 3
 * [Laue diffractometer maintenance](Laue.md)  
 * [Cleaving samples](/groupnotes/Cleaving.md)  
 * [Writing papers](/blog01/groupnotes/writing/)
-* [Replying to referees](/groupnotes/replyingreferees/)  
+* [Replying to referees](/blog01/_groupnotes/replyingreferees/)  
 * [Making figures](/groupnotes/figures/)  
 * [Useful software](/groupnotes/software/)
 * [Data management](/groupnotes/data_management/)
