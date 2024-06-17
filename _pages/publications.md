@@ -9,7 +9,6 @@ nav_order: 5
 
 <!-- 
   ## Preprints
-  <!-- _pages/publications.md -->
   <div class="publications">
   {% bibliography -f preprints %}
   </div>
