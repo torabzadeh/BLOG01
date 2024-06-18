@@ -2,7 +2,7 @@
 layout: page
 permalink: /groupnotes/
 title: Lectures 
-description: > Here we put lecture notes and other relevant materials.
+description: Here we put lecture notes and other relevant materials.
              <br>Passwords will be sent via lecture channels in Telegram or via Email.
 nav: true
 nav_order: 4
