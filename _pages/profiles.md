@@ -17,7 +17,7 @@ profiles:
       <p>PhD 2022, Stanford University<p>
   - align: left
     image: Jennifer_Sears.png
-    content: people_jennifer.md
+    content: people_Nasim_Haddadi.md
     more_info: >
       <p>Jennifer Sears<p>
       <p>PhD 2017, University of Toronto<p>
