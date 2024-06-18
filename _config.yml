@@ -8,9 +8,7 @@ last_name: Torabzadeh
 email: torabzadeh@basu.ac.ir
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Resonant x-ray scattering on quantum materials at Brookhaven.
-footer_text: > #
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Design update from Qin Yao.
+footer_text: #
 keywords: Remote sensing, GIS, Spatial science, Geomatics # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
