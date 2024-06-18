@@ -1,8 +1,9 @@
 ---
 layout: page
 permalink: /groupnotes/
-title: Group notes 
-description: Here we keep notes of various tasks within the lab.
+title: Lectures 
+description: Here we put lecture notes and other relevant materials.
+             Passwords will be sent via lecture channels in Telegram or via Email.
 nav: true
 nav_order: 4
 ---
