@@ -2,8 +2,8 @@
 layout: page
 permalink: /groupnotes/
 title: Lectures 
-description: Here we put lecture notes and other relevant materials.
-             Passwords will be sent via lecture channels in Telegram or via Email.
+description: > Here we put lecture notes and other relevant materials.
+             <br>Passwords will be sent via lecture channels in Telegram or via Email.
 nav: true
 nav_order: 4
 ---
@@ -13,8 +13,3 @@ nav_order: 4
 * [Cleaving samples](/groupnotes/Cleaving.md)  
 * [Writing papers](/blog01/groupnotes/writing/)
 * [Replying to referees](/blog01/_groupnotes/replyingreferees/)  
-* [Making figures](/groupnotes/figures/)  
-* [Useful software](/groupnotes/software/)
-* [Data management](/groupnotes/data_management/)
-* [Telework](/groupnotes/Telework/)
-* [Contact numbers](/groupnotes/contact/)  
