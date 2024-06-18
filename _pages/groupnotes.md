@@ -4,7 +4,7 @@ permalink: /groupnotes/
 title: Group notes 
 description: Here we keep notes of various tasks within the lab.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 * [Bruker diffractometer maintenance](../_groupnotes/Bruker/)  
