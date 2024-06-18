@@ -19,14 +19,14 @@ profiles:
     image: Jennifer_Sears.png
     content: people_Nasim_Haddadi.md
     more_info: >
-      <p>Jennifer Sears<p>
-      <p>PhD 2017, University of Toronto<p>
+      <p>Nasim Haddadi<p>
+      <p>M.Sc. student<p>
   - align: right
     image: Yao_Shen.png
-    content: people_yao.md
+    content: people_Reza_Nazari.md
     more_info: >
-      <p>Yao Shen<p>
-      <p>PhD 2019, Fudan University<p>
+      <p>Reza Nazari<p>
+      <p>M.Sc. student<p>
   - align: left
     image: Daniel_Mazzone.jpeg
     content: people_daniel.md
