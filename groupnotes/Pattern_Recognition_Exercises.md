@@ -1,6 +1,6 @@
 ---
 layout: page
-title: > Pattern recognition in remote sensing: exercises and datasets
+title: Pattern recognition in remote sensing - exercises and datasets
 ---
 
 A collection of exercises should be completed and reported **on time** until the end of semester. 
