@@ -24,4 +24,4 @@ I am an assistant professor of remote sensing, working in Geomatics lab, [Bu-Ali
 
 I received my Ph.D. in remote sensing from the [University of Zurich](https://www.uzh.ch/en.html), my M.Sc. in photogrammetry from the [K.N.Toosi university](https://kntu.ac.ir/index.aspx?lang=2&sub=39) in Tehran and my B.S. in surveying engineering from the [University of Isfahan](https://www.ui.ac.ir/en).
 
-My academic work focuses on using lidar and imaging spectrometry for vegetation characterization, and the link between remote sensing data and changes in environment. My research relies on both physically-based and statistical methods.
+My academic work focuses on using lidar and imaging spectrometry for vegetation characterization, and the link between remote sensing data and changes in environment. My researches rely on both physically-based and statistical methods.
