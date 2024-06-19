@@ -8,7 +8,6 @@ nav_order: 4
 ---
 
 
-## Papers
 <!-- _pages/publications.md -->
 <div class="publications">
 
