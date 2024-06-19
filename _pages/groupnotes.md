@@ -8,6 +8,7 @@ nav: true
 nav_order: 4
 ---
 
+* [Pattern recognintion in remote sensing data: exercises and datasets](/blog01/groupnotes/Pattern_Recognition_Exercises/)
 * [Bruker diffractometer maintenance](../_groupnotes/Bruker/)  
 * [Laue diffractometer maintenance](Laue.md)  
 * [Cleaving samples](/groupnotes/Cleaving.md)  
