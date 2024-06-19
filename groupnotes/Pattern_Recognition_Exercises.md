@@ -40,7 +40,7 @@ You will find the datasets [here](https://mega.nz/file/dD1SGQzB#hCq-Uit-zSs_13iX
 - Calculate correlations between Sentinel-2 MSI bands and Sentinel-1-SAR bands. Write your conclusions.
 - Calculate correlations between Sentinel-2 MSI bands and Landsat 9 OLI bands. Write is your conclusions.
 
-## 2. Principal component Analysis
+## 2. Principal component analysis
 
 - Download Dataset No.1.
 - Calculate principal components for Sentinel-2 MSI, Sentinel-1-SAR and Landsat 9 OLI, separately.
