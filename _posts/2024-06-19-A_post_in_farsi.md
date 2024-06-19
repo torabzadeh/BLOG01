@@ -7,6 +7,6 @@ tags: formatting links
 categories: sample-posts
 ---
 
+# فارسی نویسی در پست
 این یک متن farsi است که برای امتحان نوشته می‌شود. 
 - در این صفحه متون English هم وجود دارد.
-
