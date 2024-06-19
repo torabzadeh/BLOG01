@@ -7,7 +7,7 @@ tags: formatting links
 categories: sample-posts
 ---
 
-# ‌فارسی نویسی در پست‌ها
+## ‌فارسی نویسی در پست‌ها
 
 این یک متن به زبان زیبای فارسی است که برای امتحان نوشته می‌شود. 
 - در این صفحه متون English هم وجود دارد.
@@ -18,4 +18,9 @@ layout: fa_post_layout
 
 همین!
 
-بصورت تکنیکی، fa_post_layout همان 
+بصورت تکنیکی، fa_post_layout همان post است اما با تغییرات زیر
+
+1. در خط ۱۸:
+      <header class="post-header" lang="fa" dir="rtl" align="right">
+2. در خط ۴۹:
+    <div id="markdown-content" lang="fa" dir="rtl" align="right">
