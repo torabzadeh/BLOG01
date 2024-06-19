@@ -1,16 +1,19 @@
 ---
 layout: page
-title: Writing papers
+title: Pattern recognition in remote sensing: exercises and datasets
 ---
 
-A collection of exercises should be completed and reported **on time** and in turn until the end of semester. 
-It does not matter what programming languages are you using, but your results and reports will be evaluated.
-Send your reports via Email.
+A collection of exercises should be completed and reported **on time** until the end of semester. 
+It does not matter what programming language are you using, but your results and reports will be evaluated.
+Send your comprehensive reports via [Email](mailto:torabzadeh@basu.ac.ir).
 
 * TOC
 {:toc}
 
-# Dataset No.1
+# Datasets
+Passwords will be sent via lecture channels in Telegram or via Email.
+
+## No.1: Agricultural region
 This dataset includes remotely sensed imageries of an agricultural region in USA. The data are collected and regularly updated by USDA and distributed by [CSISS](https://nassgeodata.gmu.edu/CropScape/), George Mason University.
 
 We need bellow parts for performing the exercises: 
@@ -22,7 +25,7 @@ We need bellow parts for performing the exercises:
 
 You will find the datasets [here](https://mega.nz/file/NSNABJoR#YMxuvs6zjOB3XbCY5vqHds4L8krx-EWnsvYCvPe728w)
 
-# Dataset No.2
+## No.2: Ekbatan Reservoir
 This dataset includes time series of Landsat images over Ekbatan reservoir, Hamedan, Iran. 
 
 It contains six images in PNG format, showing the reservoir water body changes from 2018 to 2023. An animation of changes was also added in GIF format.  
