@@ -1,1 +1,0 @@
-Iman finished his M.Sc. in artificial intelligence on 2023. HE leads our works on spatial data analysis using ANNs (Artificial Neural Networks), focusing on laser scanning derived point clouds. Contact
