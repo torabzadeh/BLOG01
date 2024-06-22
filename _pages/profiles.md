@@ -9,18 +9,24 @@ nav_order: 2
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: right
+    image: Wei_He.jpeg
+    content: people_wei.md
+    more_info: >
+      <p>Wei He<p>
+      <p>PhD 2022, Stanford University<p>
   - align: left
     image: Jennifer_Sears.png
-    content: people_Nasim_Haddadi.md
+    content: people_jennifer.md
     more_info: >
-      <p>Nasim Haddadi<p>
-      <p>M.Sc. student<p>
+      <p>Jennifer Sears<p>
+      <p>PhD 2017, University of Toronto<p>
   - align: right
     image: Yao_Shen.png
-    content: people_Reza_Nazari.md
+    content: people_yao.md
     more_info: >
-      <p>Reza Nazari<p>
-      <p>M.Sc. student<p>
+      <p>Yao Shen<p>
+      <p>PhD 2019, Fudan University<p>
   - align: left
     image: Daniel_Mazzone.jpeg
     content: people_daniel.md
