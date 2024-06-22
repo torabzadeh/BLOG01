@@ -14,7 +14,7 @@ profiles:
     image: Iman_Ahmadi.jpeg
     content: people_iman.md
     more_info: >
-      <p>Iman Ahmadi<p>
+      <p>Iman Ahmadi<p><br>
       <p>Researcher<p>
 ---
   - align: left
