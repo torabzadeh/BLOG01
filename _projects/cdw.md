@@ -4,7 +4,7 @@ title: CDWs
 description: Charge density waves
 img: /assets/img/cdw.png
 importance: 2
-category: work
+category: research
 related_publications: Shen2023electronic, shen2021charge, Miao2021charge, lin2020strongly, chen2019charge,  miao2019formation, miao2018incommensurate, fabbris2017doping, miao2017high, chen2016remarkable
 ---
 
