@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Projects
+permalink: /projects/
 description: What we work on
 nav: true
 nav_order: 1
-display_categories: [work]
+display_categories: [Research][work]
 horizontal: false
 ---
 
