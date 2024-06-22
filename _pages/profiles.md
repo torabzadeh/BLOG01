@@ -14,6 +14,12 @@ profiles:
     content: people_wei.md
     more_info: >
       <p>Wei He<p>
+      <p>PhD 2022, Stanford University<p> 
+  - align: right
+    image: Iman_Ahmadi.jpeg
+    content: people_iman.md
+    more_info: >
+      <p>Wei He<p>
       <p>PhD 2022, Stanford University<p>
 ---
   - align: left
